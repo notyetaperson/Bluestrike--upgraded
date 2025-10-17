@@ -1,0 +1,10 @@
+rich
+fade
+bleak
+python-dotenv
+matplotlib
+seaborn
+scapy
+tkinter
+numpy
+psutil
