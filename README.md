@@ -4,12 +4,6 @@
 - Successful in jamming bluetooth speakers
 - Does not work on Airpods or any other bluetooth devices yet ...
 
-
-## Tool Preview
-
-![Imgur](https://i.imgur.com/qQloXdx.png)
-
-
 ## ⚠️ Note
 
 - **This is an educational research project; I do not endorse or support the utilization of this tool for any illegal purposes.**
@@ -26,15 +20,6 @@ pip3 install -r requirements.txt
 ```
 paru -Sy --noconfirm --needed bluez bluez-utils
 ```
-
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your `.env` file:
-
-```plaintext
-.env 
-```
-keep the .env file under `/utils`.
 
 ## Table of Contents
 1. Working of Bluetooth
@@ -65,11 +50,6 @@ From a security perspective, Bluetooth is a relatively secure technology. Howeve
 - **Bluejacking:** This is a type of attack where an attacker sends unsolicited messages to a Bluetooth device. These messages can be used to spam the user or to install malware on the device.
 - **Bluesnarfing:** This is a type of attack where an attacker steals data from a Bluetooth device. This can be done by connecting to the device and accessing the files that are stored on it.
 ---
-#### Security tips for using Bluetooth:
-
-- **Turn off Bluetooth when you are not using it.** This will help to prevent unauthorized devices from connecting to your device.
-- **Use a Bluetooth security solution.** There are a number of Bluetooth security solutions available that can help to protect your device from unauthorized access.
-- **Be aware of the risks associated with using Bluetooth.** Bluetooth is a convenient technology, but it is important to be aware of the security risks associated with it.
 
 ---
 #### Applications Used 
@@ -169,4 +149,5 @@ If you have any feedback or suggestions, please reach out to me via email at ste
 ### License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
 
