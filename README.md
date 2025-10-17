@@ -16,10 +16,6 @@ git clone https://github.com/StealthIQ/Bluestrike.git
 cd Bluestrike
 pip3 install -r requirements.txt
 ```
-2. Install necessary packages
-```
-paru -Sy --noconfirm --needed bluez bluez-utils
-```
 
 ## Table of Contents
 1. Working of Bluetooth
@@ -149,5 +145,6 @@ If you have any feedback or suggestions, please reach out to me via email at ste
 ### License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
 
 
