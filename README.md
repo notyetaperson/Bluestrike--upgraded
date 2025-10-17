@@ -12,7 +12,7 @@
 
 1. Clone the repo and install basic requirements
 ```
-git clone https://github.com/StealthIQ/Bluestrike.git
+git clone https://github.com/notyetaperson/Bluestrike--upgraded.git
 cd Bluestrike
 pip3 install -r requirements.txt
 ```
@@ -145,6 +145,7 @@ If you have any feedback or suggestions, please reach out to me via email at ste
 ### License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
 
 
 
